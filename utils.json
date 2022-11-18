@@ -1,0 +1,6 @@
+{
+  "DB_NAME": "bookstore",
+  "DB_HOST": "bookstore-application.c9q8pccwvhlw.ap-south-1.rds.amazonaws.com",
+  "DB_USER": "admin",
+  "DB_PASSWORD": "admin123"
+}
